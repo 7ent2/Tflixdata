@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Latest Movie",
+        "image": "latest-movie.jpg",
+        "description": "An exciting action-packed thriller!",
+        "link": "https://t.me/yourchannel/video1"
+    },
+    {
+        "title": "Movie 1",
+        "image": "movie1.jpg",
+        "description": "A heartwarming story of friendship and courage.",
+        "link": "https://t.me/yourchannel/video2"
+    }
+]
